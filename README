@@ -1,0 +1,22 @@
+This code was made by Jet Tue Hung Le (21546679) for the Semester 1 2024 Sudoku Solution Validator (SSV) Assignment
+
+Requirements:
+Ensure that the following is within the directory...
+    - 'child.c', 'child.h'
+    - 'mssv.c', 'mssv.h'
+    - 'testdata.txt'
+    - 'makefile'
+    - And this 'readme' file
+
+Compiling the code:
+    - Use 'make' to compile the code
+    - Use 'make clean' to clean the compiled code
+
+Running the code:
+    - Run with './mssv <testdata.txt> <delay number>'
+    - Where <testdata.txt> is the sodoku solution file, in this case it is 'testdata.txt'
+    - Where delay number is an integer between 1-10
+    - For example: './mssv testdata.txt 1'
+
+REPORT:
+The report is within this directory aswell, it INCLUDES the declaration of originality
