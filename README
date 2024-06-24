@@ -17,6 +17,3 @@ Running the code:
     - Where <testdata.txt> is the sodoku solution file, in this case it is 'testdata.txt'
     - Where delay number is an integer between 1-10
     - For example: './mssv testdata.txt 1'
-
-REPORT:
-The report is within this directory aswell, it INCLUDES the declaration of originality
